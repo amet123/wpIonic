@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.wpionic.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>WPIonic</name>
+    <name>Board Game</name>
     <description>WordPress + Ionic.</description>
-    <author email="hi@scottbolinger" href="http://scottbolinger.com/">Scott Bolinger</author>
+    <author email="ametvaid@gmail.com" href="http://1ne.in/S">Amit Vaid</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
